@@ -1,5 +1,5 @@
 # TextEditor
-This repository contains the source code for my TextEditor.
+This repository contains my TextEditor.
 
 It has the following features:
 - Swing GUI
